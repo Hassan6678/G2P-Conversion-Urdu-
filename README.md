@@ -5,5 +5,5 @@ A sample conversion is shown in table below:
 
 | Input | Output |
 |:-----|------:|
-| اَشْرَفی| :ə ʃ r ə f i|
+| اَشْرَفی| ə ʃ r ə f i:|
 پاٹَھک | p ɑ: ʈʰ ə k |
